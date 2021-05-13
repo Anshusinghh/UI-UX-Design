@@ -1,6 +1,6 @@
 # WIREFRAMES
 
-These wireframes i have created using Figma.
+These wireframes i have created using FIGMA.
 
 ## This is the design for an music app
 
