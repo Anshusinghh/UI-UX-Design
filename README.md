@@ -1,12 +1,14 @@
 # WIREFRAMES
 
-##this is the design for an music app
+These wireframes i have created using Figma.
+
+###This is the design for an music app
 
 
 ![jed-musicdesign](https://user-images.githubusercontent.com/42216529/118124356-1a169d00-b413-11eb-8692-2774afc23f48.png)
 
 
-##spotify new look
+###Spotify new look
 
 
 ![spotifyone](https://user-images.githubusercontent.com/42216529/118124385-21d64180-b413-11eb-8645-a40db4cec00d.png)
